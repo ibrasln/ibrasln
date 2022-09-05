@@ -16,8 +16,6 @@
 <a href="https://twitter.com/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibraslnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraslnn" height="30" width="40" /></a>
 <a href="https://instagram.com/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibraslnn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ibraslnn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ibraslnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ibraslnn/" height="30" width="40" /></a>
 <a href="https://discord.gg/ibos#7436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibos#7436" height="30" width="40" /></a>
 </p>
 
