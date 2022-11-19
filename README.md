@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **My Little 2D Games**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrasln&label=Profile%20views&color=0e75b6&style=flat" alt="ibrasln" /> </p>
+
+- 🔭 I’m currently working on **Unity**
 
 - 🌱 I’m currently learning **2D Game Development with Unity**
 
@@ -16,6 +18,8 @@
 <a href="https://twitter.com/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibraslnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraslnn" height="30" width="40" /></a>
 <a href="https://instagram.com/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibraslnn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ibraslnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ibraslnn" height="30" width="40" /></a>
+<a href="https://discord.gg/ibos#7436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibos#7436" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
