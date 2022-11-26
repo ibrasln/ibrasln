@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ibraslnn.itch.io](https://ibraslnn.itch.io)
 
-- 💬 Ask me about **Unity 2D, Blockchain**
+- 💬 Ask me about **Unity 2D**
 
 - 📫 How to reach me **ibraslnn@gmail.com**
 
