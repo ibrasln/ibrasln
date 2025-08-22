@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently learning **2D Game Development with Unity**
+- 🌱 I’m currently learning **Game Development with Unity**
 
 - 👨‍💻 All of my projects are available at [https://ibraslnn.itch.io](https://ibraslnn.itch.io)
 
-- 💬 Ask me about **Unity 2D**
+- 💬 Ask me about **Unity Game Engine**
 
 - 📫 How to reach me **ibraslnn@gmail.com**
 
