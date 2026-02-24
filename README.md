@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development with Unity**
 
-- 👨‍💻 All of my projects are available at [[HERE](https://ibrahimaslan.vercel.app)]
+- 👨‍💻 All of my projects are available at [HERE](https://ibrahimaslan.vercel.app)
 - 💬 Ask me about **Unity Game Engine**
 
 - 📫 How to reach me **ibraslnn@gmail.com**
